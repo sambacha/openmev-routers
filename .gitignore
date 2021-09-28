@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+build/
+dist/
+contracts/build/*
+*.log
+.cache/
+cache/
+compiler-output/
+.nyc*
+coverage/
+reports*
+
