@@ -1,0 +1,19 @@
+{
+  "name": "openmev-routers",
+  "version": "1.0.0",
+  "description": "openmev contract routers",
+  "main": "src/index.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/openmev-routers.git"
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sambacha/openmev-routers/issues"
+  },
+  "homepage": "https://github.com/sambacha/openmev-routers#readme"
+}
